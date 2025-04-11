@@ -1,4 +1,4 @@
-# 💖 Front-End Dinâmico
+# 💖 Projetos Front-End
 
 Seja bem-vinda ao **Projetos Front-End 2025** — um espaço criado para mulheres que estão se desenvolvendo no front-end com prática, criatividade e muita troca!  
 Aqui, cada projeto é uma oportunidade de aprender, evoluir e brilhar ao lado de outras meninas incríveis. ✨
