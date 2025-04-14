@@ -15,7 +15,7 @@ Clique em **"Fork"** no canto superior direito da página do repositório para c
 ### 2. Clone o repositório
 Na sua máquina, clone o repositório que você acabou de fazer o fork:
 
-```git clone https://github.com/seu-usuario/frontend-dinamico.git```
+```git clone https://github.com/Programmer-Girls/projetos-frontend-2025.git```
 
 
 ### 3. Crie uma nova branch
