@@ -36,7 +36,7 @@ Exemplo:
 - Loja virtual
 - Cardápio online
 
-# 🚨 Importante!
+## 🚨 Importante
 
 Este repositório é **somente para submissões de projetos finalizados**.
 Para desenvolvimento e alterações no código, utilizem o **fork** de vocês.
