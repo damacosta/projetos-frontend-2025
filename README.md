@@ -36,10 +36,11 @@ Exemplo:
 - Loja virtual
 - Cardápio online
 
-## 🚨 Importante
+## 💡Atenção
 
 Este repositório é **somente para submissões de projetos finalizados**.
 Para desenvolvimento e alterações no código, utilizem o **fork**.
+Se o seu projeto for **nível intermediário**, eles estão organizados em **repositórios separados** para manter tudo mais limpinho e organizado!
 
 ## 💌 Um lembrete especial
 
